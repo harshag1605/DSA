@@ -3,14 +3,19 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
         Deque<Integer> st = new ArrayDeque<>();
         for (int i = nums2.length - 1; i >= 0; i--) {
-            int num = nums2[i];
-            while (!st.isEmpty() && st.peek() <= num) {
+            while (!st.isEmpty() && st.peek() <= nums2[i]) {
                 st.pop();
             }
+            if(st.isEmpty()){
+                map.put(nums2[i],-1);
+            }
+            else{
+                map.put(nums2[i],st.peek());
+            }
 
-            map.put(num, st.isEmpty() ? -1 : st.peek());
+            // map.put(num, st.isEmpty() ? -1 : st.peek());
 
-            st.push(num);
+            st.push(nums2[i]);
         }
 
         // Build answer for nums1 using the map
