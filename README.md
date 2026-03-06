@@ -35,4 +35,8 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshag1605/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshag1605/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshag1605/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 <!---LeetCode Topics End-->
