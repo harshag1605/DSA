@@ -15,17 +15,11 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        List<TreeNode> ans = new ArrayList<>();
-        fun(root,ans);
-        for(TreeNode n : ans){
-            if(n.val == val)return n;
+        if(root == null) return null;
+        if(root.val == val)return root;
+        if(root.val < val){
+            return searchBST(root.right,val);
         }
-        return null;
-    }
-    void fun(TreeNode root, List<TreeNode> ans){
-        if(root == null)return;
-        fun(root.left,ans);
-        ans.add(root);
-        fun(root.right,ans);
+        return searchBST(root.left,val);
     }
 }
