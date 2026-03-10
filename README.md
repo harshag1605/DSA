@@ -17,6 +17,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/harshag1605/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshag1605/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/harshag1605/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshag1605/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/harshag1605/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshag1605/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/harshag1605/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshag1605/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshag1605/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
