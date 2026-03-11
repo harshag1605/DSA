@@ -4,6 +4,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshag1605/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshag1605/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshag1605/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -96,12 +97,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/harshag1605/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/harshag1605/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -122,4 +125,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/harshag1605/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
