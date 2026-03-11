@@ -66,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/harshag1605/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/harshag1605/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
