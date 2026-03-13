@@ -18,6 +18,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshag1605/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshag1605/DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/harshag1605/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshag1605/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshag1605/DSA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshag1605/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshag1605/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -35,6 +36,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshag1605/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshag1605/DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/harshag1605/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshag1605/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshag1605/DSA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshag1605/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshag1605/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -50,6 +52,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshag1605/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshag1605/DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/harshag1605/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshag1605/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshag1605/DSA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshag1605/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshag1605/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -109,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshag1605/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
