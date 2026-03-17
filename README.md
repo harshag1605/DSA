@@ -44,6 +44,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/harshag1605/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | [0112-path-sum](https://github.com/harshag1605/DSA/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/harshag1605/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +165,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/harshag1605/DSA/tree/main/0135-candy/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
