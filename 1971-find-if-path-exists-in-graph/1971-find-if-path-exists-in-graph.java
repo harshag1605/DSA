@@ -11,14 +11,7 @@ class Solution {
             adj.get(v).add(u);
         }
         boolean vis[] = new boolean[n];
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
-                if(dfs(source,destination,vis,adj)){
-                    return true;
-                }
-            }
-        }
-        return false;
+        return dfs(source,destination,vis,adj);
     }
     static boolean dfs(int curr,int destination,boolean[] vis, ArrayList<ArrayList<Integer>> adj){
         if(curr == destination)return true;
