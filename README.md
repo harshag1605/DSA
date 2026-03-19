@@ -165,6 +165,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0319-bulb-switcher](https://github.com/harshag1605/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -199,4 +200,8 @@
 | [0200-number-of-islands](https://github.com/harshag1605/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshag1605/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/harshag1605/DSA/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
