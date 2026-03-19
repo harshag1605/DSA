@@ -46,6 +46,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/harshag1605/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/harshag1605/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@
 | [0200-number-of-islands](https://github.com/harshag1605/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/harshag1605/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/harshag1605/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -177,11 +179,13 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/harshag1605/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/harshag1605/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/harshag1605/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/harshag1605/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/harshag1605/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
