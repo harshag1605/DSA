@@ -16,24 +16,18 @@ class Solution {
         boolean[] vis = new boolean[n];
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                bfs(i,adj,vis);
+                dfs(i,adj,vis);
                 count++;
             }
         }
         return count-1;
     }
 
-    void bfs(int src,List<List<Integer>> adj,boolean[] vis){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(src);
+    void dfs(int src,List<List<Integer>> adj,boolean[] vis){
         vis[src] = true;
-        while(!q.isEmpty()){
-            int p = q.poll();
-            for(int neigh : adj.get(p)){
-                if(!vis[neigh]){
-                    q.add(neigh);
-                    vis[neigh] = true;
-                }
+        for(int neigh : adj.get(src)){
+            if(!vis[neigh]){
+                dfs(neigh,adj,vis);
             }
         }
     }
