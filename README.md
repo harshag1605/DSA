@@ -49,6 +49,7 @@
 | [0733-flood-fill](https://github.com/harshag1605/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/harshag1605/DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshag1605/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -89,6 +90,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/harshag1605/DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/harshag1605/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshag1605/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshag1605/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -137,6 +139,7 @@
 | [0733-flood-fill](https://github.com/harshag1605/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/harshag1605/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshag1605/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshag1605/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -209,6 +212,7 @@
 | [0130-surrounded-regions](https://github.com/harshag1605/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/harshag1605/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/harshag1605/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshag1605/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -226,6 +230,7 @@
 | [0542-01-matrix](https://github.com/harshag1605/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/harshag1605/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshag1605/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshag1605/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshag1605/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
