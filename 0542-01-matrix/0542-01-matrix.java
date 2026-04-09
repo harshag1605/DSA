@@ -5,26 +5,29 @@ class Solution {
 
         Queue<int[]> q = new LinkedList<>();
 
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-                if(mat[i][j] == 0) {
-                    q.offer(new int[]{i, j});
-                } else {
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(mat[i][j] == 0){
+                    q.add(new int[]{i,j});
+                }
+                else{
                     mat[i][j] = -1;
                 }
             }
         }
-        int[][] dirs = {{1,0}, {-1,0}, {0,1}, {0,-1}};
-        while(!q.isEmpty()) {
-            int[] cell = q.poll();
-            int r = cell[0], c = cell[1];
 
-            for(int[] d : dirs) {
-                int nr = r + d[0];
-                int nc = c + d[1];
-                if(nr >= 0 && nr < n && nc >= 0 && nc < m && mat[nr][nc] == -1) {
-                    mat[nr][nc] = mat[r][c] + 1;
-                    q.offer(new int[]{nr, nc});
+        int[][] dir = {{1,0},{0,1},{-1,0},{0,-1}};
+        while(!q.isEmpty()){
+            int[] curr = q.poll();
+            int i = curr[0];
+            int j = curr[1];
+
+            for(int[] d : dir){
+                int ni = i+d[0];
+                int nj = j+d[1];
+                if(ni>=0 && ni<n && nj>=0 && nj<m && mat[ni][nj] == -1){
+                    mat[ni][nj] = mat[i][j]+1;
+                    q.add(new int[]{ni,nj});
                 }
             }
         }
