@@ -145,6 +145,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshag1605/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
