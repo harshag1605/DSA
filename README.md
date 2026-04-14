@@ -128,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/harshag1605/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/harshag1605/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/harshag1605/DSA/tree/main/0135-candy/) | Hard |
 | [0200-number-of-islands](https://github.com/harshag1605/DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -151,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/harshag1605/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshag1605/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0542-01-matrix](https://github.com/harshag1605/DSA/tree/main/0542-01-matrix/) | Medium |
@@ -207,6 +209,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/harshag1605/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0135-candy](https://github.com/harshag1605/DSA/tree/main/0135-candy/) | Hard |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
 ## Union-Find
