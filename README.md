@@ -191,6 +191,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/harshag1605/DSA/tree/main/0050-powx-n/) | Medium |
 | [0319-bulb-switcher](https://github.com/harshag1605/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/harshag1605/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -253,4 +254,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/harshag1605/DSA/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
