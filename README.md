@@ -197,6 +197,7 @@
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/harshag1605/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/harshag1605/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
