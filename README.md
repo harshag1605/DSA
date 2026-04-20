@@ -147,6 +147,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/harshag1605/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshag1605/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshag1605/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/harshag1605/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -218,6 +219,7 @@
 | [0045-jump-game-ii](https://github.com/harshag1605/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0135-candy](https://github.com/harshag1605/DSA/tree/main/0135-candy/) | Hard |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/harshag1605/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
