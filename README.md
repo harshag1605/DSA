@@ -107,6 +107,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/harshag1605/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/harshag1605/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/harshag1605/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Linked List
@@ -130,6 +131,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/harshag1605/DSA/tree/main/0045-jump-game-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/harshag1605/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/harshag1605/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/harshag1605/DSA/tree/main/0135-candy/) | Hard |
 | [0200-number-of-islands](https://github.com/harshag1605/DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -170,6 +172,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/harshag1605/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/harshag1605/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/harshag1605/DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Prefix Sum
