@@ -99,6 +99,7 @@
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/harshag1605/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshag1605/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/harshag1605/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +276,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/harshag1605/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
