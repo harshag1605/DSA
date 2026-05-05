@@ -116,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshag1605/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0061-rotate-list](https://github.com/harshag1605/DSA/tree/main/0061-rotate-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/harshag1605/DSA/tree/main/0061-rotate-list/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
