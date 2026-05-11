@@ -8,8 +8,8 @@ class Solution {
                 temp.add(nums[i]%10);
                 nums[i]/=10;
             }
-            Collections.reverse(temp);
-            for(int j=0;j<temp.size();j++){
+            // Collections.reverse(temp);
+            for(int j=temp.size()-1;j>=0;j--){
                 ans.add(temp.get(j));
             }
         }
