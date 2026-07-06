@@ -109,6 +109,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshag1605/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/harshag1605/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0704-binary-search](https://github.com/harshag1605/DSA/tree/main/0704-binary-search/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/harshag1605/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +159,7 @@
 | [0994-rotting-oranges](https://github.com/harshag1605/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
+| [1539-kth-missing-positive-number](https://github.com/harshag1605/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshag1605/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harshag1605/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
