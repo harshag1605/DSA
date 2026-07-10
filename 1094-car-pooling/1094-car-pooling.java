@@ -1,12 +1,8 @@
 class Solution {
     public boolean carPooling(int[][] trips, int capacity) {
         int n = trips.length;
-        int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
-            if(trips[i][1] < min){
-                min = trips[i][1];
-            }
             if(trips[i][2] > max){
                 max = trips[i][2];
             }
