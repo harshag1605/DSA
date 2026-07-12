@@ -163,6 +163,7 @@
 | [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1094-car-pooling](https://github.com/harshag1605/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/harshag1605/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/harshag1605/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/harshag1605/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshag1605/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -246,6 +247,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1094-car-pooling](https://github.com/harshag1605/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/harshag1605/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/harshag1605/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
@@ -254,6 +256,7 @@
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/harshag1605/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshag1605/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Greedy
