@@ -8,7 +8,7 @@ class Solution {
             nums[i] = arr[i];
         }
         Arrays.sort(arr);
-        map.put(arr[0],map.getOrDefault(arr[0],1));
+        map.put(arr[0],1);
         int idx = 2;
         for(int i=1;i<n;i++){
             if(arr[i] != arr[i-1]){
