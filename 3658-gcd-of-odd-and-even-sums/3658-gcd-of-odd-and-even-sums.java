@@ -6,13 +6,14 @@ class Solution {
             if(i%2 == 0) even += i;
             else odd += i;
         }
-        // int min = Math.min(odd,even);
-        int max = Integer.MIN_VALUE;
-        for(int i=1;i<=odd;i++){
-            if(odd%i == 0 && even%i == 0){
-                max = Math.max(i,max);
-            }
+        return gcd(odd,even);
+    }
+    public int gcd(int odd, int even){
+        while(odd != 0){
+            int temp = odd;
+            odd = even%odd;
+            even = temp;
         }
-        return max;
+        return even;
     }
 }
