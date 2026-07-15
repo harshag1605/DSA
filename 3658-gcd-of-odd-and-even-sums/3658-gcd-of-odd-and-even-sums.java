@@ -9,11 +9,12 @@ class Solution {
         return gcd(odd,even);
     }
     public int gcd(int odd, int even){
-        while(odd != 0){
-            int temp = odd;
-            odd = even%odd;
-            even = temp;
+        int max = 0;
+        for(int i=1;i<=odd;i++){
+            if(odd%i==0 && even%i==0){
+                max = i;
+            }
         }
-        return even;
+        return max;
     }
 }
