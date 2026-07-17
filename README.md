@@ -183,6 +183,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/harshag1605/DSA/tree/main/0045-jump-game-ii/) | Medium |
+| [0062-unique-paths](https://github.com/harshag1605/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshag1605/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -232,6 +233,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/harshag1605/DSA/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/harshag1605/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0319-bulb-switcher](https://github.com/harshag1605/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -344,4 +346,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshag1605/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/harshag1605/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
