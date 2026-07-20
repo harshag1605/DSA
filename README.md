@@ -167,6 +167,7 @@
 | [0994-rotting-oranges](https://github.com/harshag1605/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1094-car-pooling](https://github.com/harshag1605/DSA/tree/main/1094-car-pooling/) | Medium |
+| [1260-shift-2d-grid](https://github.com/harshag1605/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/harshag1605/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/harshag1605/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
@@ -307,6 +308,7 @@
 | [0733-flood-fill](https://github.com/harshag1605/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshag1605/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1260-shift-2d-grid](https://github.com/harshag1605/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshag1605/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshag1605/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -320,6 +322,7 @@
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/harshag1605/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1094-car-pooling](https://github.com/harshag1605/DSA/tree/main/1094-car-pooling/) | Medium |
+| [1260-shift-2d-grid](https://github.com/harshag1605/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshag1605/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
