@@ -101,6 +101,7 @@
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/harshag1605/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/harshag1605/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/harshag1605/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshag1605/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/harshag1605/DSA/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
@@ -234,6 +235,7 @@
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/harshag1605/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/harshag1605/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -269,6 +271,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/harshag1605/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -283,6 +286,7 @@
 | [0134-gas-station](https://github.com/harshag1605/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/harshag1605/DSA/tree/main/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/harshag1605/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshag1605/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
