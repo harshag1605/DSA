@@ -1,27 +1,20 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
-        String s = "";
-        parentheses(res,s,0,0,n);
+        helper(n,res, "", 0,0);
         return res;
-
     }
-    public static void parentheses(List<String> res,String s,int left,int right,int n){
-        if(left == n && right == n){
+
+    public void helper(int n, List<String> res, String s, int open, int close){
+        if(open == n && close == n){
             res.add(s);
             return;
         }
-        // include left
-        // agr left wala n se km h to strt left se pick krne se krnege 
-        if(left < n){
-            parentheses(res,s+"(",left+1,right,n);
+        if(open < n){
+            helper(n,res,s+"(",open+1,close);
         }
-
-        // include right
-        //agr right mere left se km h to right bracket lgna hoga
-        if(right<left){
-            parentheses(res,s+")",left,right+1,n);
+        if(close < open){
+            helper(n,res,s+")",open,close+1);
         }
-
     }
 }
