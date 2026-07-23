@@ -251,6 +251,7 @@
 | [0319-bulb-switcher](https://github.com/harshag1605/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1922-count-good-numbers](https://github.com/harshag1605/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/harshag1605/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshag1605/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshag1605/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -342,6 +343,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/harshag1605/DSA/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/harshag1605/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
