@@ -149,6 +149,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harshag1605/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/harshag1605/DSA/tree/main/0015-3sum/) | Medium |
+| [0039-combination-sum](https://github.com/harshag1605/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/harshag1605/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/harshag1605/DSA/tree/main/0046-permutations/) | Medium |
@@ -216,6 +217,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/harshag1605/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/harshag1605/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/harshag1605/DSA/tree/main/0046-permutations/) | Medium |
 | [0090-subsets-ii](https://github.com/harshag1605/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/harshag1605/DSA/tree/main/0113-path-sum-ii/) | Medium |
