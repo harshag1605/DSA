@@ -101,6 +101,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/harshag1605/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/harshag1605/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/harshag1605/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/harshag1605/DSA/tree/main/0796-rotate-string/) | Easy |
@@ -201,6 +202,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshag1605/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/harshag1605/DSA/tree/main/0198-house-robber/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/harshag1605/DSA/tree/main/0542-01-matrix/) | Medium |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
@@ -240,6 +242,7 @@
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/harshag1605/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/harshag1605/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Monotonic Stack
