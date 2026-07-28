@@ -111,6 +111,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshag1605/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/harshag1605/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshag1605/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harshag1605/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +285,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshag1605/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harshag1605/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/harshag1605/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -392,4 +394,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/harshag1605/DSA/tree/main/0062-unique-paths/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harshag1605/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
