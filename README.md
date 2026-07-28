@@ -102,6 +102,7 @@
 | [0022-generate-parentheses](https://github.com/harshag1605/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/harshag1605/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/harshag1605/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/harshag1605/DSA/tree/main/0796-rotate-string/) | Easy |
@@ -245,6 +246,7 @@
 | [0061-rotate-list](https://github.com/harshag1605/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/harshag1605/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Monotonic Stack
@@ -286,6 +288,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -351,6 +354,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
