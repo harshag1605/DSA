@@ -189,6 +189,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshag1605/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshag1605/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshag1605/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2256-minimum-average-difference](https://github.com/harshag1605/DSA/tree/main/2256-minimum-average-difference/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshag1605/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
@@ -285,6 +286,7 @@
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshag1605/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshag1605/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/harshag1605/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -297,6 +299,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0997-find-the-town-judge](https://github.com/harshag1605/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/harshag1605/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshag1605/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Greedy
@@ -374,6 +377,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/harshag1605/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
