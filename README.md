@@ -120,6 +120,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/harshag1605/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0704-binary-search](https://github.com/harshag1605/DSA/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/harshag1605/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshag1605/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2256-minimum-average-difference](https://github.com/harshag1605/DSA/tree/main/2256-minimum-average-difference/) | Medium |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshag1605/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -234,6 +236,7 @@
 | [1094-car-pooling](https://github.com/harshag1605/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/harshag1605/DSA/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [2256-minimum-average-difference](https://github.com/harshag1605/DSA/tree/main/2256-minimum-average-difference/) | Medium |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/harshag1605/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Design
@@ -287,6 +290,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshag1605/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshag1605/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/harshag1605/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -316,6 +320,7 @@
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshag1605/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
