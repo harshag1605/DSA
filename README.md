@@ -174,6 +174,7 @@
 | [0733-flood-fill](https://github.com/harshag1605/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/harshag1605/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [0997-find-the-town-judge](https://github.com/harshag1605/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1020-number-of-enclaves](https://github.com/harshag1605/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1094-car-pooling](https://github.com/harshag1605/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/harshag1605/DSA/tree/main/1260-shift-2d-grid/) | Easy |
@@ -294,6 +295,7 @@
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0997-find-the-town-judge](https://github.com/harshag1605/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/harshag1605/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshag1605/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -326,6 +328,7 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/harshag1605/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/harshag1605/DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0997-find-the-town-judge](https://github.com/harshag1605/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshag1605/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshag1605/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
