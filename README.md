@@ -196,6 +196,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshag1605/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/harshag1605/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -294,6 +295,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/harshag1605/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshag1605/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/harshag1605/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
@@ -324,6 +326,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshag1605/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/harshag1605/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshag1605/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
