@@ -199,6 +199,7 @@
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshag1605/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3238-find-the-number-of-winning-players](https://github.com/harshag1605/DSA/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Dynamic Programming
@@ -313,6 +314,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshag1605/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshag1605/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3238-find-the-number-of-winning-players](https://github.com/harshag1605/DSA/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -397,6 +399,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/harshag1605/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshag1605/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3238-find-the-number-of-winning-players](https://github.com/harshag1605/DSA/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
