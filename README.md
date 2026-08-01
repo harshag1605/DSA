@@ -276,6 +276,7 @@
 | [2485-find-the-pivot-integer](https://github.com/harshag1605/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/harshag1605/DSA/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshag1605/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/harshag1605/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/harshag1605/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshag1605/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshag1605/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -374,6 +375,7 @@
 | [1094-car-pooling](https://github.com/harshag1605/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/harshag1605/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshag1605/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/harshag1605/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,4 +423,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshag1605/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/harshag1605/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 <!---LeetCode Topics End-->
