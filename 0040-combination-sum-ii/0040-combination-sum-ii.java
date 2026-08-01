@@ -3,27 +3,26 @@ class Solution {
         Arrays.sort(candidates);
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
-        sum(res,temp,candidates,target,0);
+        helper(candidates,target,0,res,temp);
         return res;
     }
-    public static void sum(List<List<Integer>> res, List<Integer> temp,int[] candidates,int target,int start){
-        if(target < 0){
-            return;
-        }
+    public void helper(int[] candidates, int target, int idx, List<List<Integer>> res, List<Integer> temp){
         if(target == 0){
             res.add(new ArrayList<>(temp));
             return;
         }
-        for(int i=start;i<candidates.length;i++){
-            if(i > start && candidates[i] == candidates[i-1]){
-                continue;
-            }
-            if(candidates[i] > target){
-                break;
-            }
-            temp.add(candidates[i]);
-            sum(res,temp,candidates,target-candidates[i],i+1);
-            temp.remove(temp.size()-1);
+        if(idx >= candidates.length || target < 0) return;
+
+        //include
+        temp.add(candidates[idx]);
+        helper(candidates,target-candidates[idx], idx+1,res,temp);
+
+        while(idx+1 < candidates.length && candidates[idx] == candidates[idx+1]){
+            idx++;
         }
+
+        //exlcude
+        temp.remove(temp.size()-1);
+        helper(candidates,target,idx+1,res,temp);
     }
 }
