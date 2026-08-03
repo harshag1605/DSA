@@ -169,6 +169,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshag1605/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/harshag1605/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/harshag1605/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0216-combination-sum-iii](https://github.com/harshag1605/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/harshag1605/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/harshag1605/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -235,6 +236,7 @@
 | [0046-permutations](https://github.com/harshag1605/DSA/tree/main/0046-permutations/) | Medium |
 | [0090-subsets-ii](https://github.com/harshag1605/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/harshag1605/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/harshag1605/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/harshag1605/DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
