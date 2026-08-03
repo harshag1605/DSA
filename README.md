@@ -126,6 +126,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/harshag1605/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/harshag1605/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/harshag1605/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/harshag1605/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -160,6 +161,7 @@
 | [0045-jump-game-ii](https://github.com/harshag1605/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/harshag1605/DSA/tree/main/0046-permutations/) | Medium |
 | [0075-sort-colors](https://github.com/harshag1605/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/harshag1605/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/harshag1605/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshag1605/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/harshag1605/DSA/tree/main/0130-surrounded-regions/) | Medium |
@@ -234,6 +236,7 @@
 | [0039-combination-sum](https://github.com/harshag1605/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/harshag1605/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/harshag1605/DSA/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/harshag1605/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/harshag1605/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/harshag1605/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/harshag1605/DSA/tree/main/0216-combination-sum-iii/) | Medium |
