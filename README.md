@@ -99,6 +99,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/harshag1605/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/harshag1605/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/harshag1605/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -233,6 +234,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/harshag1605/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/harshag1605/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/harshag1605/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/harshag1605/DSA/tree/main/0040-combination-sum-ii/) | Medium |
@@ -318,6 +320,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/harshag1605/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshag1605/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
