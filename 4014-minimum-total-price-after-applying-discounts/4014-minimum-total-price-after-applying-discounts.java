@@ -12,10 +12,9 @@ class Solution {
             i--;
             j--;
         }
-        int idx = n-m-1;
-        while(idx>=0){
-            sum += prices[idx];
-            idx--;
+        while(i>=0){
+            sum += prices[i];
+            i--;
         }
         return sum;
     }
