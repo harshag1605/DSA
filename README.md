@@ -104,6 +104,7 @@
 | [0205-isomorphic-strings](https://github.com/harshag1605/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/harshag1605/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/harshag1605/DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/harshag1605/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
@@ -269,6 +270,7 @@
 | [0061-rotate-list](https://github.com/harshag1605/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/harshag1605/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/harshag1605/DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
