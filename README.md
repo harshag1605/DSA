@@ -197,6 +197,7 @@
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshag1605/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/harshag1605/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/harshag1605/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshag1605/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harshag1605/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -296,6 +297,7 @@
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/harshag1605/DSA/tree/main/0877-stone-game/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/harshag1605/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1922-count-good-numbers](https://github.com/harshag1605/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/harshag1605/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/harshag1605/DSA/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -320,6 +322,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/harshag1605/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshag1605/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/harshag1605/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
@@ -360,6 +363,7 @@
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshag1605/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1402-reducing-dishes](https://github.com/harshag1605/DSA/tree/main/1402-reducing-dishes/) | Hard |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/harshag1605/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshag1605/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
@@ -465,6 +469,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/harshag1605/DSA/tree/main/0877-stone-game/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/harshag1605/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/harshag1605/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
