@@ -234,6 +234,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshag1605/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshag1605/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/harshag1605/DSA/tree/main/0198-house-robber/) | Medium |
+| [0233-number-of-digit-one](https://github.com/harshag1605/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -302,6 +303,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/harshag1605/DSA/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/harshag1605/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0233-number-of-digit-one](https://github.com/harshag1605/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0319-bulb-switcher](https://github.com/harshag1605/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -439,6 +441,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/harshag1605/DSA/tree/main/0050-powx-n/) | Medium |
+| [0233-number-of-digit-one](https://github.com/harshag1605/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/harshag1605/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
