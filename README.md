@@ -215,6 +215,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshag1605/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/harshag1605/DSA/tree/main/3238-find-the-number-of-winning-players/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshag1605/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshag1605/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshag1605/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -364,6 +365,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshag1605/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshag1605/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/harshag1605/DSA/tree/main/3238-find-the-number-of-winning-players/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshag1605/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshag1605/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/harshag1605/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -444,6 +446,7 @@
 | [0233-number-of-digit-one](https://github.com/harshag1605/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/harshag1605/DSA/tree/main/1922-count-good-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshag1605/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +476,7 @@
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/harshag1605/DSA/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshag1605/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshag1605/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
