@@ -472,6 +472,7 @@
 | [0584-find-customer-referee](https://github.com/harshag1605/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/harshag1605/DSA/tree/main/0595-big-countries/) | Easy |
 | [0607-sales-person](https://github.com/harshag1605/DSA/tree/main/0607-sales-person/) | Easy |
+| [0620-not-boring-movies](https://github.com/harshag1605/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/harshag1605/DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1280-students-and-examinations](https://github.com/harshag1605/DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/harshag1605/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
