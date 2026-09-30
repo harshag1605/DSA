@@ -163,6 +163,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harshag1605/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/harshag1605/DSA/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/harshag1605/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/harshag1605/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/harshag1605/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
@@ -286,6 +287,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harshag1605/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/harshag1605/DSA/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/harshag1605/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/harshag1605/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/harshag1605/DSA/tree/main/0075-sort-colors/) | Medium |
