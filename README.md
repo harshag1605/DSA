@@ -108,6 +108,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/harshag1605/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/harshag1605/DSA/tree/main/0443-string-compression/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/harshag1605/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshag1605/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/harshag1605/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -293,6 +294,7 @@
 | [0075-sort-colors](https://github.com/harshag1605/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0392-is-subsequence](https://github.com/harshag1605/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/harshag1605/DSA/tree/main/0443-string-compression/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/harshag1605/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshag1605/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
@@ -311,6 +313,7 @@
 | [0233-number-of-digit-one](https://github.com/harshag1605/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0319-bulb-switcher](https://github.com/harshag1605/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshag1605/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/harshag1605/DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/harshag1605/DSA/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/harshag1605/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
