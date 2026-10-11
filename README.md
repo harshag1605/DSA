@@ -126,6 +126,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/harshag1605/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshag1605/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshag1605/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/harshag1605/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -165,6 +166,7 @@
 | [0011-container-with-most-water](https://github.com/harshag1605/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/harshag1605/DSA/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/harshag1605/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/harshag1605/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/harshag1605/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/harshag1605/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshag1605/DSA/tree/main/0042-trapping-rain-water/) | Hard |
