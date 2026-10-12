@@ -149,10 +149,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshag1605/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/harshag1605/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshag1605/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/harshag1605/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1094-car-pooling](https://github.com/harshag1605/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshag1605/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
@@ -187,6 +189,7 @@
 | [0238-product-of-array-except-self](https://github.com/harshag1605/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/harshag1605/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshag1605/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/harshag1605/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0542-01-matrix](https://github.com/harshag1605/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/harshag1605/DSA/tree/main/0704-binary-search/) | Easy |
@@ -341,6 +344,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/harshag1605/DSA/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/harshag1605/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/harshag1605/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshag1605/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshag1605/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1094-car-pooling](https://github.com/harshag1605/DSA/tree/main/1094-car-pooling/) | Medium |
@@ -363,6 +367,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshag1605/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/harshag1605/DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/harshag1605/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/harshag1605/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/harshag1605/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/harshag1605/DSA/tree/main/0763-partition-labels/) | Medium |
@@ -463,6 +468,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshag1605/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/harshag1605/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/harshag1605/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -520,4 +526,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshag1605/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshag1605/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshag1605/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
