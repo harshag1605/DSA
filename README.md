@@ -132,6 +132,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/harshag1605/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0704-binary-search](https://github.com/harshag1605/DSA/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/harshag1605/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harshag1605/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -214,6 +215,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshag1605/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/harshag1605/DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshag1605/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harshag1605/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshag1605/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2256-minimum-average-difference](https://github.com/harshag1605/DSA/tree/main/2256-minimum-average-difference/) | Medium |
@@ -354,6 +356,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshag1605/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/harshag1605/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshag1605/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harshag1605/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/harshag1605/DSA/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshag1605/DSA/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
