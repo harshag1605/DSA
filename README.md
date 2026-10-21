@@ -223,6 +223,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/harshag1605/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2611-mice-and-cheese](https://github.com/harshag1605/DSA/tree/main/2611-mice-and-cheese/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshag1605/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshag1605/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshag1605/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/harshag1605/DSA/tree/main/3238-find-the-number-of-winning-players/) | Easy |
@@ -500,6 +501,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/harshag1605/DSA/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshag1605/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshag1605/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshag1605/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
