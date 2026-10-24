@@ -227,6 +227,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshag1605/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshag1605/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/harshag1605/DSA/tree/main/3238-find-the-number-of-winning-players/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshag1605/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshag1605/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshag1605/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -331,6 +332,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshag1605/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3099-harshad-number](https://github.com/harshag1605/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/harshag1605/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshag1605/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshag1605/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/harshag1605/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshag1605/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
