@@ -234,6 +234,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/harshag1605/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshag1605/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/harshag1605/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshag1605/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshag1605/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshag1605/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshag1605/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -340,6 +341,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshag1605/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshag1605/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshag1605/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshag1605/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshag1605/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshag1605/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/harshag1605/DSA/tree/main/3870-count-commas-in-range/) | Easy |
